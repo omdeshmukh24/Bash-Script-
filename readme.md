@@ -22,6 +22,7 @@ This script is designed to display key system resource information in a simple, 
 3. Make it executable:
    ```bash
    chmod +x monitor.sh
+   ./monitor.sh
 
 # Security Audit and Hardening Script
 
@@ -45,3 +46,4 @@ This script (`secure.sh`) performs a basic security audit on a Linux system and 
 1. Make the script executable:
    ```bash
    chmod +x secure.sh
+   ./secure.sh
